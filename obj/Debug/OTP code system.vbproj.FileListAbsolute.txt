@@ -1,0 +1,14 @@
+C:\Users\Menor\source\repos\OTP code system\bin\Debug\OTP code system.exe.config
+C:\Users\Menor\source\repos\OTP code system\bin\Debug\OTP code system.exe
+C:\Users\Menor\source\repos\OTP code system\bin\Debug\OTP code system.pdb
+C:\Users\Menor\source\repos\OTP code system\bin\Debug\OTP code system.xml
+C:\Users\Menor\source\repos\OTP code system\obj\Debug\OTP code system.vbproj.AssemblyReference.cache
+C:\Users\Menor\source\repos\OTP code system\obj\Debug\OTP_code_system.Form1.resources
+C:\Users\Menor\source\repos\OTP code system\obj\Debug\OTP_code_system.Resources.resources
+C:\Users\Menor\source\repos\OTP code system\obj\Debug\OTP_code_system.Reset.resources
+C:\Users\Menor\source\repos\OTP code system\obj\Debug\OTP_code_system.Sendcode.resources
+C:\Users\Menor\source\repos\OTP code system\obj\Debug\OTP code system.vbproj.GenerateResource.cache
+C:\Users\Menor\source\repos\OTP code system\obj\Debug\OTP code system.vbproj.CoreCompileInputs.cache
+C:\Users\Menor\source\repos\OTP code system\obj\Debug\OTP code system.exe
+C:\Users\Menor\source\repos\OTP code system\obj\Debug\OTP code system.xml
+C:\Users\Menor\source\repos\OTP code system\obj\Debug\OTP code system.pdb
